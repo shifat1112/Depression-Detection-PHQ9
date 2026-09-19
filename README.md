@@ -376,4 +376,4 @@ If someone is experiencing mental-health concerns, they should seek guidance fro
 
 This research project represents an exploration of how machine learning can be applied responsibly to questionnaire-based mental-health research.
 
-If you find this project useful for academic or research purposes, you are welcome to **star ⭐ the repository**.
+
