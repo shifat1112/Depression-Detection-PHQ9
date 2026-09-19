@@ -25,4 +25,4 @@ the additional features used in the machine learning pipeline.
 The exact feature names and preprocessing steps can be found in the
 research notebook:
 
-`Depression_Detection_PHQ9.ipynb`
+`Depression_detection_phq9.ipynb`
